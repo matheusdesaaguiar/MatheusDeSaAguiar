@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+###Olá sou um jovem de 19 anos que está estudando para ser desenvolvedor backend.
+###Atualmente estou cursando Ciências da Computação no Instuto Federal de Goiás(IFG) no campus Anápolis e participando do curso de desenvolvedor de software com foco em backend da Cubos Academy.
+
+###Estou aprendendo Javascript, NodeJS e Java.
+
