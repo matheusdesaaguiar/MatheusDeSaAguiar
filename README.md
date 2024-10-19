@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Olá sou um jovem de 19 anos que está estudando para ser desenvolvedor backend.
+Olá sou um jovem de 19 anos que está estudando para ser desenvolvedor full-stack.
 ###Atualmente estou cursando Ciências da Computação no Instuto Federal de Goiás(IFG) no campus Anápolis.
 
